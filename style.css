@@ -1,0 +1,33 @@
+.parent{
+    color:blueviolet;
+    margin-left: 10px;
+    height: 1000px;
+    text-align: center;
+    padding-top: 30px;
+}
+.class1{
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    transition: width 3s;
+    margin: 20px;
+}
+.class2{
+    background-color: orange;
+    height: 100px;
+    width: 100px;
+    transition: width 3s;
+    margin: 20px;
+}
+.class3{
+    background-color:green;
+    height: 100px;
+    width: 100px;
+    transition: width 3s;
+    margin: 20px;
+}
+.class1:hover{
+    width: 200px;
+    height: 200px;
+    background-color: pink;
+}

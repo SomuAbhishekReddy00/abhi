@@ -1,0 +1,32 @@
+.parent{
+    color:blueviolet;
+    margin-left: 10px;
+    height: 1000px;
+    text-align: center;
+    padding-top: 30px;
+}
+.class1{
+    height: 100px;
+    width: 100px;
+    margin:10px;
+    background: linear-gradient(
+        green,
+        white,
+        blue
+
+    );
+
+}
+
+.class2{
+    height: 100px;
+    width: 100px;
+    background: radial-gradient(
+        green,
+        white,
+        blue
+
+    );
+
+}
+
